@@ -5,11 +5,11 @@ import br.com.antlia.desafio.usecase.InserirMovimentoUseCase;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
-import org.springframework.beans.factory.annotation.Autowired;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.when;
 
+//Teste Incompleto
 class InserirMovimentoUseCaseTest {
 
     @Mock
@@ -18,7 +18,7 @@ class InserirMovimentoUseCaseTest {
     @InjectMocks
     InserirMovimentoUseCase useCase;
 
-
+    @Test
     void deveGerarLancamentoCorretamente() {
 
         MovimentoManualEntity mov = new MovimentoManualEntity();
