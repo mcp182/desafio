@@ -1,0 +1,14 @@
+/Users/mariomv/Desktop/desafio/src/main/java/br/com/antlia/desafio/model/MovimentoId.java
+/Users/mariomv/Desktop/desafio/src/main/java/br/com/antlia/desafio/dto/MovimentoRequestDTO.java
+/Users/mariomv/Desktop/desafio/src/main/java/br/com/antlia/desafio/repository/ProdutoCosifRepository.java
+/Users/mariomv/Desktop/desafio/src/main/java/br/com/antlia/desafio/usecase/BuscarMovimentosUseCase.java
+/Users/mariomv/Desktop/desafio/src/main/java/br/com/antlia/desafio/controller/MovimentoController.java
+/Users/mariomv/Desktop/desafio/src/main/java/br/com/antlia/desafio/repository/MovimentoRepository.java
+/Users/mariomv/Desktop/desafio/src/main/java/br/com/antlia/desafio/model/ProdutoCosifEntity.java
+/Users/mariomv/Desktop/desafio/src/main/java/br/com/antlia/desafio/repository/ProdutoRepository.java
+/Users/mariomv/Desktop/desafio/src/main/java/br/com/antlia/desafio/dto/MovimentoResponseDTO.java
+/Users/mariomv/Desktop/desafio/src/main/java/br/com/antlia/desafio/mapper/MovimentoMapper.java
+/Users/mariomv/Desktop/desafio/src/main/java/br/com/antlia/desafio/model/ProdutoEntity.java
+/Users/mariomv/Desktop/desafio/src/main/java/br/com/antlia/desafio/model/MovimentoManualEntity.java
+/Users/mariomv/Desktop/desafio/src/main/java/br/com/antlia/desafio/model/ProdutoCosifId.java
+/Users/mariomv/Desktop/desafio/src/main/java/br/com/antlia/desafio/usecase/InserirMovimentoUseCase.java

@@ -1,0 +1,14 @@
+br/com/antlia/desafio/model/MovimentoManualEntity.class
+br/com/antlia/desafio/usecase/InserirMovimentoUseCase.class
+br/com/antlia/desafio/repository/ProdutoCosifRepository.class
+br/com/antlia/desafio/usecase/BuscarMovimentosUseCase.class
+br/com/antlia/desafio/dto/MovimentoRequestDTO.class
+br/com/antlia/desafio/model/ProdutoCosifId.class
+br/com/antlia/desafio/repository/ProdutoRepository.class
+br/com/antlia/desafio/repository/MovimentoRepository.class
+br/com/antlia/desafio/model/ProdutoEntity.class
+br/com/antlia/desafio/dto/MovimentoResponseDTO.class
+br/com/antlia/desafio/controller/MovimentoController.class
+br/com/antlia/desafio/model/ProdutoCosifEntity.class
+br/com/antlia/desafio/mapper/MovimentoMapper.class
+br/com/antlia/desafio/model/MovimentoId.class
